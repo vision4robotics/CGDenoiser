@@ -5,7 +5,7 @@
 
 This is the official code for the paper "Conditional Generative Denoiser for Nighttime UAV Tracking".
 
-<img src="./CGD.png">
+<img src="./CGD.pdf">
 
 # Abstract
 
