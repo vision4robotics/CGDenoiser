@@ -22,7 +22,7 @@ torch.set_num_threads(1)
 parser = argparse.ArgumentParser(description='siamese tracking')
 parser.add_argument('--dataset', default='UAVDark135', type=str,
                     help='datasets')
-parser.add_argument('--datasetpath', default='/media/yucheng/Elements', type=str,
+parser.add_argument('--datasetpath', default='', type=str,
                     help='the path of datasets')
 parser.add_argument('--config', default='', type=str,
                     help='config file')
