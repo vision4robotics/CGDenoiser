@@ -40,7 +40,8 @@ python test.py                                    \
   --enhancername DCE                              \ # enhancer_name
 
   --d_weights ./checkpoint/CGD/model.pth         \ # denoiser_model
-  --denoisername CGD                                # denoiser_name
+  --denoisername CGD                              \ # denoiser_name
+  --video girl5                                   # sequence_name
 
 ```
 
