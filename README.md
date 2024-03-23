@@ -21,7 +21,7 @@ pytorch 1.10.1
 
 ## Demo
 ### Demo Video
-[![CDT](https://res.cloudinary.com/marcomontalbano/image/upload/v1680953500/video_to_markdown/images/youtube--tuoebVKYEVg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/tuoebVKYEVg "CDT")
+[![CGD](https://mega.nz/file/tbkViIxQ#x_LSmc-HpThTESeqahYSuRRzDbsFipgNMUe7UITCTaQ)](https://youtu.be/DjmtBhyDdu4 "CGD")
 
 
 
