@@ -21,7 +21,7 @@ pytorch 1.10.1
 
 ## Demo
 ### Demo Video
-[![CGD](https://mega.nz/file/tbkViIxQ#x_LSmc-HpThTESeqahYSuRRzDbsFipgNMUe7UITCTaQ)](https://youtu.be/DjmtBhyDdu4 "CGD")
+[![CGDenoiser](https://res.cloudinary.com/marcomontalbano/image/upload/v1711174875/video_to_markdown/images/youtube--DjmtBhyDdu4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/DjmtBhyDdu4 "CGDenoiser")
 
 
 
