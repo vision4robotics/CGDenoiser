@@ -1,5 +1,5 @@
 # [CGDenoiser]
-# Conditional Generative Denoiser for Nighttime UAV Tracking
+# Conditional Generative Denoiser for Nighttime UAV Tracking (IROS2024 Oral)
 
 ### Yucheng Wang, Changhong Fu, Kunhan Lu, Liangliang Yao, and Haobo Zuo
 
