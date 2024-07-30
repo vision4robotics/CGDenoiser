@@ -54,6 +54,9 @@ Before training, you need to prepare the training set of the [SIDD](https://www.
 python -m torch.distributed.launch --nproc_per_node=1 --master_port=16888 train.py -opt config/CGD.yml --launcher pytorch
 ```
 
+## Supplementary proof
+
+Details about the proof of CGDenoiser could be download at [proof](https://mega.nz/file/YXlyzIqa#tO6BVS6-RjvRjtd2tY51_5cjNH4wQl94WYF1KrlsDh4).
 
 
 ## Acknowledgements
