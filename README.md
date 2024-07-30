@@ -56,7 +56,7 @@ python -m torch.distributed.launch --nproc_per_node=1 --master_port=16888 train.
 
 ## Supplementary proof
 
-Details about the proof of CGDenoiser could be download at [proof](https://mega.nz/file/YXlyzIqa#tO6BVS6-RjvRjtd2tY51_5cjNH4wQl94WYF1KrlsDh4).
+Details about the proof of CGDenoiser can be download at [proof](https://mega.nz/file/YXlyzIqa#tO6BVS6-RjvRjtd2tY51_5cjNH4wQl94WYF1KrlsDh4).
 
 
 ## Acknowledgements
